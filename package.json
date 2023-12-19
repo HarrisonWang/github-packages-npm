@@ -1,0 +1,19 @@
+{
+  "name": "github-packages-npm",
+  "version": "1.0.0",
+  "description": "基于 GitHub Packages 发布 npm 包应用示例",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarrisonWang/github-packages-npm.git"
+  },
+  "author": "Harrison Wang",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/HarrisonWang/github-packages-npm/issues"
+  },
+  "homepage": "https://github.com/HarrisonWang/github-packages-npm#readme"
+}
