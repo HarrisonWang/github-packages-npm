@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HarrisonWang/github-packages-npm/issues"
   },
-  "homepage": "https://github.com/HarrisonWang/github-packages-npm#readme"
+  "homepage": "https://github.com/HarrisonWang/github-packages-npm#readme",
+  "publishConfig": {
+    "@harrisonwang:registry": "https://npm.pkg.github.com"
+  }
 }
